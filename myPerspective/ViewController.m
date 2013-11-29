@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Aniket Kulkarni. All rights reserved.
 //
 
+//Simple project demonstrating github features!
+
 #import "ViewController.h"
 
 @interface ViewController ()
